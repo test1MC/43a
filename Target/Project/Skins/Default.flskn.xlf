@@ -53,6 +53,6 @@
             mtype="seg"
             mid="1"
             MadCap:segmentStatus="Untranslated"
-            MadCap:matchPercent="0" /></target></trans-unit></body>
+            MadCap:matchPercent="0">ssd</mrk></target></trans-unit></body>
   </file>
 </xliff>
